@@ -1,0 +1,2 @@
+# clickpost-prepare
+クリックポストのPDFを封筒に直接印刷するためのスクリプト
